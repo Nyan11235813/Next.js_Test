@@ -18,8 +18,7 @@ Follow these simple steps to get the project up and running on your machine:
 
 Clone the repository:
 
-Bash
-
+Bash :
 git clone [YOUR_REPOSITORY_URL_HERE]
 cd [YOUR_REPOSITORY_NAME]
 (Replace [YOUR_REPOSITORY_URL_HERE] and [YOUR_REPOSITORY_NAME] with your actual repository URL and name)
@@ -33,11 +32,12 @@ npm install
 yarn install
 Run the development server:
 
-Bash
-
+Bash :
 npm run dev
+
 # or
 yarn dev
+
 Open in your browser:
 Open http://localhost:3000 with your browser to see the result.
 
